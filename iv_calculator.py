@@ -2,7 +2,7 @@
 
 print('''
 
-	A Calculadora de IV a seguir mede o quanto seu Pokémon
+	A Calculadora de IV a seguir informa o quanto seu Pokémon
 	é perfeito. Você consegue descobrir o grau de perfeição
 	indo no canto inferior direito da página do pokémon e 
 	clicando em "Avaliar"
