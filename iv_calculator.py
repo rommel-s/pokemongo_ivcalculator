@@ -1,4 +1,4 @@
-##### IV CALCULATOR #####
+##### IV CALCULATOR POKEMON GO #####
 
 print('''
 
