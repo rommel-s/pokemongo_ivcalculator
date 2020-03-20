@@ -21,4 +21,4 @@ stamina = int(input('Stamina (0 - 15): '))
 
 iv_calc = ((attack + defense + stamina) * 100) / 45
 
-print(f'Seu {pokemon} é {iv_calc:.1f} % perfeito')
+print(f'O seu {pokemon} é {iv_calc:.1f} % perfeito')
